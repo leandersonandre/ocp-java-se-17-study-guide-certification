@@ -2,6 +2,9 @@
 
 A personal study plan to get java certification
 
+[Official Site - Exam 1Z0-829](https://education.oracle.com/pt_BR/catálogo-de-produtos-ouexam-pexam_1z0-829/pexam_1Z0-829)
+
+
 ## Topics of Study
 
 
